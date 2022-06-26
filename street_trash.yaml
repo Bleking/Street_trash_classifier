@@ -1,0 +1,18 @@
+names:
+- 'Paper'
+- 'Paper_newspaper'
+- 'Plastic'
+- 'Plastic bag'
+- 'Paper_book'
+- 'Plastic bottle'
+- 'Paper_box'
+- 'Carton'
+- 'Carton_cup'
+- 'Can'
+- 'Can_aluminum'
+- 'Can_tin'
+- 'Glass'
+nc: 13
+train: /content/datasets/Street-trash-3/train/images
+val: /content/datasets/Street-trash-3/valid/images
+test: /content/datasets/Street-trash-3/test/images
